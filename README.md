@@ -15,4 +15,3 @@ Python-Weather-API-using-Postman/
 ├── LICENSE             # Open source license details
 └── README.md           # Project documentation
 
-pip install requirements.txt, and run dvc repro or python main.py
