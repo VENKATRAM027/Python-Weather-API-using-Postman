@@ -14,3 +14,5 @@ Python-Weather-API-using-Postman/
 ├── .gitignore          # Ignored files and directories
 ├── LICENSE             # Open source license details
 └── README.md           # Project documentation
+
+pip install requirements.txt, and run dvc repro or python main.py
